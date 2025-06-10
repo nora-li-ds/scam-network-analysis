@@ -77,10 +77,10 @@ python scam_network.py
 ## 👩‍💻 Author
 
 **Nora Li**  
-MSc Crime Science w/ Data Science @UCL  
+MSc Crime Science with Data Science @UCL  
 Passionate about FinCrime AI, risk modeling, and intelligent systems.
 
-[GitHub](https://github.com/nora-li-ds) | [LinkedIn](https://www.linkedin.com/in/your-link/)
+[GitHub](https://github.com/nora-li-ds) | [LinkedIn](https://www.linkedin.com/in/xinnuoli-profile)
 
 ---
 
